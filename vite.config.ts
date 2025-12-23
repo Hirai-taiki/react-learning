@@ -12,7 +12,7 @@ export default defineConfig({
         name: "react-learning",
         short_name: "react-learning",
         description: "react-learning",
-        start_url: "",
+        start_url: "/index.html",
         display:"standalone",
         orientation: "portrait",
         theme_color: '#3f51b2',
